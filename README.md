@@ -1,2 +1,3 @@
-# AR-PDRPy
+# ARpdrpy
+
 Associacion Rules (pdrpy)
